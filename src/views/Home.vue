@@ -1,6 +1,7 @@
 <template>
   <div class="home">
     <img src="../assets/8.jpg" alt="">
+    123
   </div>
 </template>
 
